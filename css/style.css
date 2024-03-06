@@ -475,11 +475,11 @@ body {
 	width: auto;
 	height: auto;
 	background-color: #674ea7;
-	border-radius: 16px;
+	border-radius: 20px;
 	text-align: center;
 	color: #fff;
-	padding: 8px;
-	margin-right: 8px;
+	padding: 10px;
+	margin-right: 10px;
 }
 
 .venue a {
